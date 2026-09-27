@@ -49,7 +49,10 @@ This repository is currently in its initial state. Update this section with a de
 
 ```
 TESTING/
-├── CLAUDE.md          # This file
+├── CLAUDE.md                      # This file
+├── .claude/
+│   └── agents/
+│       └── asesor-fiscal.md       # Subagente "asesor fiscal" (fiscalidad española)
 └── .git/
 ```
 
